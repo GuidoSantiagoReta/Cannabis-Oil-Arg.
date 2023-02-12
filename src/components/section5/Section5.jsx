@@ -9,7 +9,7 @@ const Section5 = () => {
         <p className="last-paragraph">
           Nos dedicamos a satisfacer a nuestros clientes con el mejor aceite de
           CBD 100% orgánico. Nuestro equipo especializado cuenta con las mejores
-          técnologías para la producción de un excelente aceite natural, libre
+          tecnologías para la producción de un excelente aceite natural, libre
           de agrotóxicos para brindar la mejor experiencia.
         </p>
       </div>
