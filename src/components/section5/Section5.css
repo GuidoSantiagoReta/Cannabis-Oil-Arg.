@@ -1,0 +1,33 @@
+.about-us {
+    background: #4E8E07;
+    padding-bottom: 40px;
+    height: 400px;
+
+
+}
+
+.title-5 {
+    color: #121112;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+}
+
+
+.last-paragraph {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+/*MEDIAQUERIES*/
+
+@media screen and (max-width:559px) {
+
+    .last-paragraph {
+
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,69 @@
+.title {
+    color: #4E8E07;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.about-oil {
+    background: #ffffff;
+    padding-bottom: 40px;
+
+
+}
+
+.product-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.individual-product {
+    width: 28%;
+    text-align: center;
+
+
+}
+
+.individual-product img {
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: 1px 5px 5px 3px rgb(209, 209, 209);
+}
+
+.individual-product h3 {
+    margin: 10px;
+    color: #4E8E07;
+}
+
+.individual-product p {
+    font-weight: 600;
+
+
+}
+
+/*MEDIAQUERIES*/
+
+@media screen and (max-width:768px) {
+    .product-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .individual-product {
+        text-align: center;
+        padding: 20px;
+        min-width: 80%;
+    
+    }
+    .individual-product img {
+        width: 90%;
+        border-radius: 20px;
+        box-shadow: 1px 5px 5px 3px rgb(209, 209, 209);
+      
+    }
+}

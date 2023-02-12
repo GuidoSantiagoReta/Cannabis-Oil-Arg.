@@ -1,0 +1,17 @@
+.border-nav {
+    padding: 12px;
+    background: #4E8E07;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+.border-links>a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+
+}

@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    background: #121112;
+    padding: 15px;
+    box-shadow: 10px 10px 10px 10px rgb(204, 203, 203);
+
+}
+
+
+.logo-nav {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+h1 {
+    color: #4E8E07;
+    font-size: 30px;
+
+}
+
+.punto-title {
+    color: #fff;
+}
+
+
+/*MEDIAQUERIES*/
+
+@media screen and (max-width:400px) {
+    
+h1 {
+    color: #4E8E07;
+    font-size: 20px;
+
+}
+.logo-nav img{
+  max-width: 15%;
+}
+
+}
