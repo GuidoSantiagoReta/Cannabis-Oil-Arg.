@@ -5,7 +5,7 @@ const Section5 = () => {
   return (
     <section className="about-us">
       <div className="container">
-        <h2 className="title-5">Porque elergirnos</h2>
+        <h2 className="title-5">Porque elegirnos</h2>
         <p className="last-paragraph">
           Nos dedicamos a satisfacer a nuestros clientes con el mejor aceite de
           CBD 100% orgánico. Nuestro equipo especializado cuenta con las mejores
