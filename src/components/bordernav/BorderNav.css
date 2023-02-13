@@ -13,5 +13,9 @@
     text-decoration: none;
     padding: 10px;
     font-size: 25px;
+    cursor: pointer;
 
+}
+a:hover{
+    color: #121112;
 }
